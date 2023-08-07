@@ -1,5 +1,5 @@
 # my-portfolio
-<Anthony's Portfolio>
+## Anthony's Portfolio
 
 ## Description
 This website is Anthony's Portfolio. The website will tell you all about Anthony, show you all the work he has done, and also how to contact him.
